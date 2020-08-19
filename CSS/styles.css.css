@@ -1,0 +1,133 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 3.5rem !important;
+}
+
+h3 {
+  font-size: 1.5rem !important;
+}
+
+.title {
+  background-color: #00bcd4;
+  height: auto;
+}
+
+.container-fluid {
+  color: #0f4c75
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem !important;
+}
+
+/* Profile */
+.row {
+  padding: 8% 10%;
+}
+
+.container-one {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.profile-photo {
+  height: 200px;
+  text-align: center;
+  padding-left: 0;
+}
+
+.info-list {
+  line-height: .8;
+}
+
+.Employment-section {
+  padding: 1% 10%;
+  background-color: #ddf3f5;
+}
+
+.KP {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.work1 {
+  line-height: .8;
+}
+
+.enterra {
+  padding-top: 0;
+  padding-bottom: 25px;
+}
+
+/* Education */
+.edu-section {
+  padding: 2% 10% 2% 10%;
+}
+
+
+.icon-container {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  height: 150px;
+}
+
+.icon {
+  padding-bottom: 10px;
+}
+
+.feature-Box {
+  padding-bottom: 0;
+  height: 100px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.myButton {
+  box-shadow: inset 0 1px 0 0 #54a3f7;
+  background: linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+  background-color: #007dc1;
+  border-radius: 11px;
+  border: 1px solid #124d77;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 13px;
+  padding: 6px 31px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #154682;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+  background-color: #0061a7;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.bottom-container {
+  text-align: center;
+  height: 50px;
+  background-color: #cbf1f5;
+  margin-top: 10px;
+}
+
+.contact-me {
+  text-align: center;
+  color : grey;
+  margin: 50px auto 50px auto;
+}
